@@ -8,7 +8,7 @@ As a PWA, the Budget Tracker uses a service worker to enable the offline functio
 
 ## A Look at the App
 
-
+![A screenshot of the Budget Tracker app](budget-tracker.png "The Budget Tracker app")
 
 ## Link to the App
 
